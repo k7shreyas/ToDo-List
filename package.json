@@ -8,6 +8,9 @@
   },
   "author": "ShreyK",
   "license": "ISC",
+  "engines": {
+    "node": "10.19.0"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.1.5",
